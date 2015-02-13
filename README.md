@@ -6,4 +6,4 @@ Verification: The process of evaluating software to determine whether the produc
 Validation: The process of evaluating software during or at the end of the development process to determine whether it satisfies specified requirements.
 
 Verification is quality control, Validation is quality assurance.
-# SDLC
+http://www.easterbrook.ca/steve/wp-content/VandVtoolbox.jpg
